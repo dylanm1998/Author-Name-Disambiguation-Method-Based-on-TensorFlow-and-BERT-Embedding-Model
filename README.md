@@ -1,3 +1,6 @@
 # Author Name Disambiguation Method Based on TensorFlow and BERT Embedding Model
 
-https://github.com/dylanm1998/Author-Name-Disambiguation-Method-Based-on-TensorFlow-and-BERT-Embedding-Model_/blob/main/Name%20Disambiguation%20with%20BERT.ipynb
+
+Experiment data:
+https://drive.google.com/drive/folders/15qHCm_ca6zGd1L4KAuhH7OhHgAXokktX?usp=drive_link
+
